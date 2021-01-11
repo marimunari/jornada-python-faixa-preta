@@ -41,7 +41,7 @@ Python é uma linguagem de programação de alto nível criada por Guido van Ros
   <li>Laços de Repetição</li>
   <li>Operadores Lógicos</li>
   <li>Funções</li>
-  <li>Interfaces Gráficas/li>
+  <li>Interfaces Gráficas</li>
   <li>Github</li>
 </ul>
 
