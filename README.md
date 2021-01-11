@@ -1,6 +1,6 @@
 # Jornada Python Faixa Preta - ByLearn :computer:
 
-A Jornada Python Faixa Preta foi realizada pela <a href="https://www.bylearn.com.br/" target="_blank">ByLearn</a>, entre os dias 04 e 07 de Janeiro de 2021, apresentando conceitos básicos da linguagem de programação Python, desde teoria até prática.
+A Jornada Python Faixa Preta foi realizada pela <a href="https://www.bylearn.com.br/" target="_blank">ByLearn</a>, entre os dias 04 e 07 de Janeiro de 2021, apresentando conceitos básicos da linguagem de programação Python, desde teoria até a prática.
 
 ## Python :snake:	
 Python é uma linguagem de programação de alto nível criada por Guido van Rossum em 1991, que suporta múltiplos paradigmas de programação. Algumas características da linguagem:
